@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\bin\Debug\AccountingConsole.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\bin\Debug\AccountingConsole.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\bin\Debug\AccountingConsole.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\obj\Debug\AccountingConsole.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\obj\Debug\AccountingConsole.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\obj\Debug\AccountingConsole.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\AccountingConsole\obj\Debug\AccountingConsole.pdb

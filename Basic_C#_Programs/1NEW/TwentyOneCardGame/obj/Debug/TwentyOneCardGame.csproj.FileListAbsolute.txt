@@ -1,0 +1,10 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CopyComplete
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\bin\Debug\Casino1.dll
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\TwentyOneCardGame\bin\Debug\Casino1.pdb

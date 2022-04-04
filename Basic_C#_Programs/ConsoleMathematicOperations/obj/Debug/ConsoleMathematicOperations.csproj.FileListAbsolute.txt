@@ -1,0 +1,7 @@
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\bin\Debug\ConsoleMathematicOperations.exe.config
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\bin\Debug\ConsoleMathematicOperations.exe
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\bin\Debug\ConsoleMathematicOperations.pdb
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\obj\Debug\ConsoleMathematicOperations.csproj.AssemblyReference.cache
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\obj\Debug\ConsoleMathematicOperations.csproj.CoreCompileInputs.cache
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\obj\Debug\ConsoleMathematicOperations.exe
+C:\Users\mckay\source\repos\ConsoleMathematicOperations\obj\Debug\ConsoleMathematicOperations.pdb

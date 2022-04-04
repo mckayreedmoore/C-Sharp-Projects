@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\bin\Debug\ParsingEnumsAssignment7.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\bin\Debug\ParsingEnumsAssignment7.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\bin\Debug\ParsingEnumsAssignment7.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\obj\Debug\ParsingEnumsAssignment7.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\obj\Debug\ParsingEnumsAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\obj\Debug\ParsingEnumsAssignment7.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ParsingEnumsAssignment7\obj\Debug\ParsingEnumsAssignment7.pdb

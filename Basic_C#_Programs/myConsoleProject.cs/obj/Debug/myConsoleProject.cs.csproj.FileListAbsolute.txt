@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb

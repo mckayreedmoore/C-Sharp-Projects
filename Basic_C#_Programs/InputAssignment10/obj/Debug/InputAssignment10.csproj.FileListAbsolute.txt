@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\bin\Debug\InputAssignment10.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\bin\Debug\InputAssignment10.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\bin\Debug\InputAssignment10.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\obj\Debug\InputAssignment10.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\obj\Debug\InputAssignment10.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\obj\Debug\InputAssignment10.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\InputAssignment10\obj\Debug\InputAssignment10.pdb

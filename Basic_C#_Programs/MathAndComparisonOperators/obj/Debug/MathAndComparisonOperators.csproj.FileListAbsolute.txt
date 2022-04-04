@@ -1,0 +1,7 @@
+C:\Users\mckay\source\repos\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe.config
+C:\Users\mckay\source\repos\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe
+C:\Users\mckay\source\repos\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.pdb
+C:\Users\mckay\source\repos\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\mckay\source\repos\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\mckay\source\repos\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.exe
+C:\Users\mckay\source\repos\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.pdb

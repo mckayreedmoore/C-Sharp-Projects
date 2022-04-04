@@ -1,0 +1,14 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\bin\Debug\ArrayAndListConsoleApp.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\bin\Debug\ArrayAndListConsoleApp.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\bin\Debug\ArrayAndListConsoleApp.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\1NEW\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\bin\Debug\ArrayAndListConsoleApp.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\bin\Debug\ArrayAndListConsoleApp.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\bin\Debug\ArrayAndListConsoleApp.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ArrayAndListConsoleApp\obj\Debug\ArrayAndListConsoleApp.pdb
