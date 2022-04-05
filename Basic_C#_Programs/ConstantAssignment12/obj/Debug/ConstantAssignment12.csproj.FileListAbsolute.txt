@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\bin\Debug\ConstantAssignment12.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\bin\Debug\ConstantAssignment12.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\bin\Debug\ConstantAssignment12.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\obj\Debug\ConstantAssignment12.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\obj\Debug\ConstantAssignment12.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\obj\Debug\ConstantAssignment12.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\ConstantAssignment12\obj\Debug\ConstantAssignment12.pdb

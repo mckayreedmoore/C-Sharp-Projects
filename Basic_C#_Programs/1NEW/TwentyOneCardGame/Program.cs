@@ -14,7 +14,7 @@ namespace TwentyOneCardGame
     {
         static void Main(string[] args)
         {
-          
+            
             Console.WriteLine("Welcome to the Grand Hotel and Casino! \nWhat is your name?");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
@@ -24,6 +24,12 @@ namespace TwentyOneCardGame
             if (answer == "yes" || answer == "yea" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                    
+                }
                 game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
