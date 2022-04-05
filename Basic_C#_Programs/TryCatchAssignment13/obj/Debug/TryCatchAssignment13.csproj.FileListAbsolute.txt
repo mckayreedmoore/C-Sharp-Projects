@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\bin\Debug\TryCatchAssignment13.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\bin\Debug\TryCatchAssignment13.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\bin\Debug\TryCatchAssignment13.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\obj\Debug\TryCatchAssignment13.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\obj\Debug\TryCatchAssignment13.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\obj\Debug\TryCatchAssignment13.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\TryCatchAssignment13\obj\Debug\TryCatchAssignment13.pdb

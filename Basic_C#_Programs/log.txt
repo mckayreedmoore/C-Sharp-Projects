@@ -52,3 +52,37 @@ Four of Spades
 4/1/2022 2:54:59 PM
 Five of Hearts
 
+91b6617d-29f3-43a7-86ba-3cab34eab34e
+4/5/2022 11:08:58 AM
+Three of Hearts
+
+4/5/2022 11:08:58 AM
+Ace of Diamonds
+
+4/5/2022 11:08:58 AM
+Six of Hearts
+
+4/5/2022 11:08:58 AM
+King of Hearts
+
+4/5/2022 11:09:05 AM
+Queen of Clubs
+
+254ed2da-7716-4d8e-9ba5-dd9355daa98c
+2b7ed171-e476-4d9d-ac87-6b0c95ec7575
+4/5/2022 12:20:34 PM
+Ten of Clubs
+
+4/5/2022 12:20:34 PM
+Eight of Spades
+
+4/5/2022 12:20:34 PM
+King of Spades
+
+4/5/2022 12:20:34 PM
+Three of Clubs
+
+4/5/2022 12:20:38 PM
+Jack of Diamonds
+
+9799fc7a-9b5e-4b87-acfc-1773b8d073ef
