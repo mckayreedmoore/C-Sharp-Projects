@@ -1,0 +1,14 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\bin\Debug\netcoreapp3.1\dotNetCore.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\bin\Debug\netcoreapp3.1\dotNetCore.deps.json
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\bin\Debug\netcoreapp3.1\dotNetCore.runtimeconfig.json
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\bin\Debug\netcoreapp3.1\dotNetCore.runtimeconfig.dev.json
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\bin\Debug\netcoreapp3.1\dotNetCore.dll
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\bin\Debug\netcoreapp3.1\dotNetCore.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.AssemblyInfoInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.AssemblyInfo.cs
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.dll
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\dotNetCore\obj\Debug\netcoreapp3.1\dotNetCore.genruntimeconfig.cache

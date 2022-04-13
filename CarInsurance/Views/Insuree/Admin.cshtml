@@ -1,28 +1,50 @@
-﻿@using CarInsurance.Models;
+﻿@model IEnumerable<CarInsurance.Models.Table>
 
-@model List<Table> 
+@{
+    ViewBag.Title = "Index";
+}
 
+<h2>Index</h2>
 
-<div class="row">
-
-
-    @foreach (var insuree in Model)
-    {
-        <div class="row" style="margin-botton:30px;">
-            <div class="col-3">
-                @insuree.Quote
-            </div>
-            <div class="col-3">
-                @insuree.FirstName
-            </div>
-            <div class="col-3">
-                @insuree.LastName
-            </div>
-            <div class="col-3">
-                @insuree.EmailAddress
-            </div>
-        </div>
-     }
-
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </th>
         
-</div>
+        <th>
+            @Html.DisplayNameFor(model => model.Quote)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Quote)
+            </td>
+          
+        </tr>
+    }
+
+</table>

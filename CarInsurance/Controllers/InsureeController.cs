@@ -25,13 +25,13 @@ namespace CarInsurance.Controllers
 
 
             //This block holds all the different criteria that adjust the monthly insurance quote. 
-            if (insurerIntAge < 18) { insuranceQuote += 100; }
-            if (insurerIntAge > 19 && insurerIntAge < 25) { insuranceQuote += 50; }
+            if (insurerIntAge <= 18) { insuranceQuote += 100; }
+            if (insurerIntAge >= 19 && insurerIntAge <= 25) { insuranceQuote += 50; }
             if (insurerIntAge > 25) { insuranceQuote += 25; }
             if (insurer.CarYear < 2000) { insuranceQuote += 25; }
             if (insurer.CarYear > 2015) { insuranceQuote += 25; }
             if (insurer.CarMake == "Porsche") { insuranceQuote += 25; }
-            if (insurer.CarMake == "Porsche" && insurer.CarMake == "911 Carrera") { insuranceQuote += 25; }
+            if (insurer.CarMake == "Porsche" && insurer.CarModel == "911 Carrera") { insuranceQuote += 25; }
             insuranceQuote += insurer.SpeedingTickets * 10;
             if (insurer.DUI) { insuranceQuote += insuranceQuote / 4; }
             if (insurer.CoverageType) { insuranceQuote += insuranceQuote / 2; }
