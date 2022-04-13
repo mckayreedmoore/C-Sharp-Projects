@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NewsletterAppMVC
+namespace NewsletterAppMVC.Models
 {
     using System;
     using System.Data.Entity;
@@ -19,9 +19,7 @@ namespace NewsletterAppMVC
             : base("name=NewsletterEntities")
         {
         }
-
-        
-
+    
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
