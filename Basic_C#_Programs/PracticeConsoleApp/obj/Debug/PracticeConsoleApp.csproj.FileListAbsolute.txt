@@ -1,0 +1,7 @@
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\bin\Debug\PracticeConsoleApp.exe.config
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\bin\Debug\PracticeConsoleApp.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\bin\Debug\PracticeConsoleApp.pdb
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.exe
+C:\Users\mckay\OneDrive\Documents\GitHub\C-Sharp Projects\Basic_C#_Programs\PracticeConsoleApp\obj\Debug\PracticeConsoleApp.pdb
