@@ -96,3 +96,45 @@ Jack of Diamonds
 7e2e0aca-adc5-4089-9f34-a92bafc8de1b
 024a3f4c-f4ad-4735-86e0-de95e89e8ac8
 4b8faaff-e172-4b4e-9cb0-66420b0f83e0
+e3993776-a7da-45e5-b3aa-f7150bb6b5cb
+4/15/2022 12:54:23 PM
+Queen of Diamonds
+
+4/15/2022 12:54:23 PM
+Ace of Diamonds
+
+4/15/2022 12:54:23 PM
+Eight of Hearts
+
+4/15/2022 12:54:23 PM
+Eight of Clubs
+
+4/15/2022 12:54:24 PM
+Six of Hearts
+
+5877528f-d634-4fab-b3a4-4ea60ab51016
+7ee46b6a-8381-4e7d-9cfd-492e16ca4831
+4/15/2022 12:55:23 PM
+Two of Clubs
+
+4/15/2022 12:55:23 PM
+Five of Spades
+
+4/15/2022 12:55:23 PM
+Two of Hearts
+
+4/15/2022 12:55:23 PM
+Seven of Spades
+
+4/15/2022 12:55:26 PM
+Three of Clubs
+
+4/15/2022 12:55:35 PM
+Three of Diamonds
+
+4/15/2022 12:55:40 PM
+Queen of Hearts
+
+4/15/2022 12:55:43 PM
+Seven of Hearts
+
