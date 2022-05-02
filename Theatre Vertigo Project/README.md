@@ -17,7 +17,7 @@
 <h4> 3 - Code of Model </h4>
 <p>This shows the code for the model that was used during this project. </p>
 
-<h4> 4 - Create Page Form Post </h4>
+<h4> 4 - Create Page Form Posting adjustment </h4>
 <p> The top section allows for the form to be able to post with HttpPostedFileBase which will then be converted into a byte array before database storage </p>
 
 <h4> 5 - Method that converts the HttpPostedFileBase into the byteArray before storage in the database. </h4>
